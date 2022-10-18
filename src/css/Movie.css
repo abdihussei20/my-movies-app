@@ -1,0 +1,30 @@
+.card {
+  background-color: white;
+}	
+.card-view {
+  margin: 3px 0;
+  background-color: white;
+
+}
+
+ 
+.title-textarea , 
+.year-textarea, 
+.genre-textarea,
+.description-textarea
+{
+  font-size: 24px;
+  resize: none;
+  width: 100%;
+}
+
+.form-check{
+ display: inline-block;
+ float: right;
+}
+
+.form-check-label:hover,
+.form-check-input:hover
+ {
+ color: lightgray;
+}
